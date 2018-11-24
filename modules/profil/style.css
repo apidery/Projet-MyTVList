@@ -1,0 +1,37 @@
+.container {
+	padding-top:50px;
+}
+
+img {
+/*	margin: auto;
+*/}
+
+p {
+	font-size: 25px;
+}
+
+p i {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 40px;
+}
+
+.row h4 {
+	font-weight: bold;
+	font-size: 30px;
+	padding-left: 40px;
+}
+
+.glyphicon { 
+/*	font-size: 30px;
+*/	margin-bottom: 10px;
+	margin-right: 10px;
+}
+
+.btn-group {
+	padding-left: 40px;
+}
+
+#modif_pp{
+		width : 200px;
+}

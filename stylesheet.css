@@ -1,0 +1,120 @@
+body {
+	background-color: #f8f8f8;
+}
+
+section {
+	background-color: white;
+}
+
+footer {
+    background-color: black;
+    min-height: 30px;
+    width: 100%;
+    color: white;
+}
+.copyright {
+    line-height: 30px;
+    min-height: 30px;
+    padding: 7px 0;
+}
+.design {
+
+    line-height: 30px;
+    min-height: 30px;
+    padding: 7px 0;
+    text-align: right;
+}
+.design a {
+    color: white;
+}
+
+
+.panel {
+	margin-bottom: inherit;
+}
+
+#index .blocGris {
+	background-color: #f8f8f8;
+}
+
+#index .blockDroite {
+	text-align: center;
+	border: 1px solid #ccc;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-radius:8px;
+}
+
+#index .blockDroite img {
+	width: 100%;
+	height: 265px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#index .blockGauche {
+	text-align: center;
+	border: 1px solid #9e9e9e;
+    border-radius:8px;
+}
+
+#index .blockGauche hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;	
+}
+
+#index .blockGauche .row {
+	margin-bottom: 1%;
+	margin-top: 1%;
+}
+
+#index .blockGauche img {
+	height: 300px;
+	width: 240px;
+	display: inline-block;
+}
+
+#index .blockGauche .textNews {
+	display: inline-block;
+	text-align: center;
+	height: 300px;
+}
+
+#index .blockGauche .textNews p{
+	margin-top: 140px;	
+}
+
+#pageOeuvre .blocTitre {
+	margin-top: 40px;
+	text-align: center;
+}
+
+#pageOeuvre .blocOeuvre {
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+#pageOeuvre .blocOeuvre img {
+	width: 100%;
+}
+
+#pageOeuvre .texteOeuvre {
+	margin-top: 15%;
+}
+
+#pageOeuvre .lescoms {
+	border: 1px solid #ccc;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-radius:8px;
+}
+
+#pageOeuvre .lescoms img{
+	width: 50px;
+}
